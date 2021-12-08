@@ -17,7 +17,7 @@ using namespace std;
  *  Args:
  *      _mesh, _mesh_name: mesh file(.obj) and its name(path)
  *      _vectors: function matrix to be visualized
- *      _c: column to be draw
+ *      _c: column to paint
  * ------------------------------------------------------------------------------------- */
 void paint_mesh(Mesh& _mesh, const string _mesh_name, MatrixXd& _vectors, const int _c){
     // set color attribute
