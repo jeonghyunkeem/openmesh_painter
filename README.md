@@ -19,7 +19,7 @@ Eigen
 6. Pass them to MeshLab.
 
 ## Examples
-The white regions corresponds to small values while colored ones to large values.  
+White region corresponds to small value while colored one to large value.  
 *(Please note that I'm not sure if figures below are correct results for HW5 ^^;)*  
 
 **LB operator** (source_9.obj, target.obj)<br>
