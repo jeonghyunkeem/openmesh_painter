@@ -1,5 +1,5 @@
 # openmesh_painter
-> Author: Jeonghyun Kim 
+> Author: Jeonghyun Kim  
 > Date: 08-Dec-2021
 
 Mesh painter using OpenMesh for CS492D, KAIST (Prof. M. Sung)
