@@ -19,8 +19,7 @@ Eigen
 
 ## Examples
 LB operator (source_9.obj, target.obj)
-![lambda_0](./lambda_0.PNG)
-![lambda_2](./lambda_2.PNG)
+![lambda_0](./lambda_0.PNG) ![lambda_2](./lambda_2.PNG)
 
 HKS (target.obj)
-![HKS](./hks.PNG)
+![HKS](./target_hks.PNG)
