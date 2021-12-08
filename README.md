@@ -15,4 +15,4 @@ Eigen
 2. Normalize function values to color domain (0~255).
 3. Colorize face of mesh with averaged function value of its vertices. 
 
-*Modify `out_file` to your designated output path
+*Modify `out_file` to your designated output path*
