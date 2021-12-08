@@ -18,8 +18,8 @@ Eigen
 5. Write file to `out_file` path.
 
 ## Examples
-LB operator (source_9.obj, target.obj) 
+LB operator (source_9.obj, target.obj)<br>
 <img src="./lambda_0.PNG" width="300px"> <img src="./lambda_2.PNG" width="300px">
 
-HKS (target.obj)  
+HKS (target.obj)  <br>
 <img src="./target_hks.PNG" width="500px">
