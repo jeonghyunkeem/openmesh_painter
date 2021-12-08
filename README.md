@@ -19,8 +19,8 @@ Eigen
 6. Pass them to MeshLab.
 
 ## Examples
+The white regions corresponds to small values while colored ones to large values. 
 *(Please note that I'm not sure if figures below are correct results for HW5 ^^;)*  
-The white regions corresponds to small values and colored ones to large values. 
 
 **LB operator** (source_9.obj, target.obj)<br>
 <img src="./lambda_0.PNG" width="400px"> <img src="./lambda_2.PNG" width="400px">
