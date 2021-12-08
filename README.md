@@ -16,3 +16,11 @@ Eigen
 3. Colorize face of mesh with averaged function value of its vertices. 
 4. *Modify `out_file` to your designated output path*
 5. Write file to `out_file` path.
+
+## Examples
+LB operator (source_9.obj, target.obj)
+![lambda_0](./lambda_0.PNG)
+![lambda_2](./lambda_2.PNG)
+
+HKS (target.obj)
+![HKS](./hks.PNG)
