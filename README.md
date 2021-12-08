@@ -5,6 +5,6 @@
 Mesh painter using OpenMesh for CS492D
 
 ## Requirements
-`
+```
 OpenMesh
-`
+```
