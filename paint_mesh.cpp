@@ -11,14 +11,14 @@ using namespace OpenMesh;
 using namespace Eigen;
 using namespace std;
 
-/*
+/* -------------------------------------------------------------------------------------
  * Mesh painter
  * 
  *  Args:
  *      _mesh, _mesh_name: mesh file(.obj) and its name(path)
  *      _vectors: function matrix to be visualized
  *      _c: column to be draw
- */
+ * ------------------------------------------------------------------------------------- */
 void paint_mesh(Mesh& _mesh, const string _mesh_name, MatrixXd& _vectors, const int _c){
     // set color attribute
     _mesh.request_face_colors();
