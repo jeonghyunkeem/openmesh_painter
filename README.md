@@ -11,4 +11,6 @@ Eigen
 ```
 
 ## Description
-Colorize face of mesh with averaged function value of its vertices. The function values are normalized to color domain (0~255)
+1. Takes function `_vectors` and column `_c` to draw. 
+2. Normalize function values are normalized to color domain (0~255).
+3. Colorize face of mesh with averaged function value of its vertices. 
