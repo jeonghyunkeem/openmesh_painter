@@ -14,5 +14,5 @@ Eigen
 1. Takes function matrix `_vectors` and column `_c` (e.g. index of LBO, timestep for HKS) to draw. 
 2. Normalize function values to color domain (0~255).
 3. Colorize face of mesh with averaged function value of its vertices. 
-
-*Modify `out_file` to your designated output path*
+4. *Modify `out_file` to your designated output path*
+5. Write file to `out_file` path.
