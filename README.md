@@ -22,7 +22,7 @@ Eigen
 *(Please note that I'm not sure if figures below are correct results for HW5 ^^;)*  
 
 **LB operator** (source_9.obj, target.obj)<br>
-<img src="./lambda_0.PNG" width="300px"> <img src="./lambda_2.PNG" width="300px">
+<img src="./lambda_0.PNG" width="400px"> <img src="./lambda_2.PNG" width="400px">
 
 **HKS** (target.obj) <br>
-<img src="./target_hks.PNG" width="1000px">
+<img src="./target_hks.PNG" width="800px">
